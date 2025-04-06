@@ -1,0 +1,2 @@
+/home/trian/Documents/Kerja/Beljar/flutter_application_1/android/app/.cxx/Debug/4356p6q7/x86/CMakeFiles/rebuild_cache.dir
+/home/trian/Documents/Kerja/Beljar/flutter_application_1/android/app/.cxx/Debug/4356p6q7/x86/CMakeFiles/edit_cache.dir
